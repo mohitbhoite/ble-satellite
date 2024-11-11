@@ -1,5 +1,5 @@
 # BLE Satellite
-This is a firmware repository for a Seeedstudio XIAO nRF52840 based solar satellite. You can find the documentation for this project on my website [here.]( https://www.bhoite.com/sculptures/ble-satellite/)
+This is a firmware repository for a [Seeed Studio XIAO nRF52840](https://wiki.seeedstudio.com/XIAO_BLE/) based solar satellite. You can find the documentation for this project on my website [here.]( https://www.bhoite.com/sculptures/ble-satellite/)
 
 ![BLE Satellite](https://github.com/mohitbhoite/ble-satellite/blob/main/ble-satellite.jpg)
 
